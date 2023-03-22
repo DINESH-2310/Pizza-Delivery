@@ -1,0 +1,9 @@
+.container{
+    width:10%;
+    margin:10px auto;
+    max-width: 1080px;
+
+}
+div.flux-container{
+    display: flex;
+}

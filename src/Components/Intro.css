@@ -1,0 +1,33 @@
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
+#left {
+    margin-top: 20%;
+}
+#left > img{
+    height: 450px;
+    width: auto;
+border-radius: 70%;
+}
+body {
+    background-color: white;
+}
+#rigth{
+    margin-top: 25%;
+    font-family: 'Creepster', cursive;
+    font-size: xx-large;
+}
+h1{
+    font-size: 4rem;
+    color: red;
+}
+#as{
+ 
+    font-size: 2rem;
+}
+button{
+    width: 10rem ;
+    height: 52px;
+    font-size: 7rem;
+}

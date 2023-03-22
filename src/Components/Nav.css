@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
+
+nav{
+   
+    background-color:transparent;
+    font-size: 33px;
+    
+    
+}
+.nav-link{
+    color: rgb(31, 31, 30)!important;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size:13px;
+}
+#brand{
+    color: red;
+    font-family: 'Creepster', cursive;
+    font-size: 53px;
+   
+}
+span{
+    color: black;
+}
+#navbarNav{
+    text-align: center;
+    margin-left: 5%;
+
+}
